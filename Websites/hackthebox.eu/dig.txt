@@ -1,0 +1,259 @@
+
+; <<>> DiG 9.16.8-Debian <<>> 104.20.66.68, 172.67.1.1, 104.20.55.68, 108.162.193.107, 172.64.33.107, 173.245.59.107, 108.162.192.122, 172.64.32.122, 173.245.58.122, 172.64.32.122, 173.245.58.122, 108.162.192.122, 172.64.33.107, 173.245.59.107, 108.162.193.107, 173.245.59.107, 108.162.193.107, 172.64.33.107, 173.245.58.122, 108.162.192.122, 172.64.32.122
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 42664
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;104.20.66.68,.			IN	A
+
+;; Query time: 10 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 31
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40868
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;172.67.1.1,.			IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 29
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 22337
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;104.20.55.68,.			IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 31
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 57764
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;108.162.193.107,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 34
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 62948
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;172.64.33.107,.			IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 32
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 25684
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;173.245.59.107,.		IN	A
+
+;; Query time: 10 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 33
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 28744
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;108.162.192.122,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 34
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 37864
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;172.64.32.122,.			IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 32
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11071
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;173.245.58.122,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 33
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7261
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;172.64.32.122,.			IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 32
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44719
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;173.245.58.122,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 33
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 35125
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;108.162.192.122,.		IN	A
+
+;; Query time: 10 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 34
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11960
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;172.64.33.107,.			IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 32
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 57550
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;173.245.59.107,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 33
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 56724
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;108.162.193.107,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 34
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 55698
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;173.245.59.107,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 33
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 61042
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;108.162.193.107,.		IN	A
+
+;; Query time: 10 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 34
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 13690
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;172.64.33.107,.			IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 32
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 48395
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;173.245.58.122,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 33
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 26602
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;108.162.192.122,.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 34
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45949
+;; flags: qr rd ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;172.64.32.122.			IN	A
+
+;; ANSWER SECTION:
+172.64.32.122.		0	IN	A	172.64.32.122
+
+;; Query time: 0 msec
+;; SERVER: 172.30.128.1#53(172.30.128.1)
+;; WHEN: Fri Dec 25 18:13:46 MSK 2020
+;; MSG SIZE  rcvd: 60
+

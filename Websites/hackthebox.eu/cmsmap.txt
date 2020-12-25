@@ -1,0 +1,9 @@
+[-] Date & Time: 25/12/2020 18:13:52
+[I] Threads: 5
+[-] Target: https://hackthebox.eu (104.20.66.68)
+[I] Server: cloudflare
+[L] X-Frame-Options: Not Enforced
+[I] X-Content-Security-Policy: Not Enforced
+[L] Robots.txt Found: https://hackthebox.eu/robots.txt
+[ERROR] CMS detection failed :(
+[ERROR] Use -f to force CMSmap to scan (W)ordpress, (J)oomla or (D)rupal

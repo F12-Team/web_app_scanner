@@ -1,0 +1,75 @@
+
+
+$$\      $$\           $$\               $$$$$$\                             $$$$$$\                                                             
+$$ | $\  $$ |          $$ |             $$  __$$\                           $$  __$$\                                                            
+$$ |$$$\ $$ | $$$$$$\  $$$$$$$\         $$ /  $$ | $$$$$$\   $$$$$$\        $$ /  \__| $$$$$$$\ $$$$$$\  $$$$$$$\  $$$$$$$\   $$$$$$\   $$$$$$\  
+$$ $$ $$\$$ |$$  __$$\ $$  __$$\        $$$$$$$$ |$$  __$$\ $$  __$$\       \$$$$$$\  $$  _____|\____$$\ $$  __$$\ $$  __$$\ $$  __$$\ $$  __$$\ 
+$$$$  _$$$$ |$$$$$$$$ |$$ |  $$ |       $$  __$$ |$$ /  $$ |$$ /  $$ |       \____$$\ $$ /      $$$$$$$ |$$ |  $$ |$$ |  $$ |$$$$$$$$ |$$ |  \__|
+$$$  / \$$$ |$$   ____|$$ |  $$ |       $$ |  $$ |$$ |  $$ |$$ |  $$ |      $$\   $$ |$$ |     $$  __$$ |$$ |  $$ |$$ |  $$ |$$   ____|$$ |      
+$$  /   \$$ |\$$$$$$$\ $$$$$$$  |       $$ |  $$ |$$$$$$$  |$$$$$$$  |      \$$$$$$  |\$$$$$$$\$$$$$$$ |$$ |  $$ |$$ |  $$ |\$$$$$$$\ $$ |      
+\__/     \__| \_______|\_______/$$$$$$\ \__|  \__|$$  ____/ $$  ____/$$$$$$\ \______/  \_______|\_______|\__|  \__|\__|  \__| \_______|\__|      
+                                \______|          $$ |      $$ |     \______|                                                                   
+                                                  $$ |      $$ |                                                                                
+                                                  \__|      \__|                                                                                
+$$$$$$$\                                 $$\                                     $$\           $$\                                      
+$$  __$$\                                $$ |                                    $$ |          $$ |                                     
+$$ |  $$ | $$$$$$\  $$\    $$\  $$$$$$\  $$ | $$$$$$\   $$$$$$\   $$$$$$\   $$$$$$$ |          $$$$$$$\  $$\   $$\ $$\                  
+$$ |  $$ |$$  __$$\ \$$\  $$  |$$  __$$\ $$ |$$  __$$\ $$  __$$\ $$  __$$\ $$  __$$ |          $$  __$$\ $$ |  $$ |\__|                 
+$$ |  $$ |$$$$$$$$ | \$$\$$  / $$$$$$$$ |$$ |$$ /  $$ |$$ /  $$ |$$$$$$$$ |$$ /  $$ |          $$ |  $$ |$$ |  $$ |                     
+$$ |  $$ |$$   ____|  \$$$  /  $$   ____|$$ |$$ |  $$ |$$ |  $$ |$$   ____|$$ |  $$ |          $$ |  $$ |$$ |  $$ |$$\                  
+$$$$$$$  |\$$$$$$$\    \$  /   \$$$$$$$\ $$ |\$$$$$$  |$$$$$$$  |\$$$$$$$\ \$$$$$$$ |          $$$$$$$  |\$$$$$$$ |\__|                 
+\_______/  \_______|    \_/     \_______|\__| \______/ $$  ____/  \_______| \_______|          \_______/  \____$$ |                     
+                                                       $$ |                                              $$\   $$ |                     
+                                                       $$ |                                              \$$$$$$  |                     
+                                                       \__|                                               \______/                      
+$$$$$$$$\   $$\    $$$$$$\      $$$$$$$$\                                                                                                      
+$$  _____|$$$$ |  $$  __$$\     \__$$  __|                                                                                                     
+$$ |      \_$$ |  \__/  $$ |       $$ | $$$$$$\   $$$$$$\  $$$$$$\$$$$\                                                                        
+$$$$$\      $$ |   $$$$$$  |       $$ |$$  __$$\  \____$$\ $$  _$$  _$$\                                                                       
+$$  __|     $$ |  $$  ____/        $$ |$$$$$$$$ | $$$$$$$ |$$ / $$ / $$ |                                                                      
+$$ |        $$ |  $$ |             $$ |$$   ____|$$  __$$ |$$ | $$ | $$ |                                                                      
+$$ |      $$$$$$\ $$$$$$$$\        $$ |\$$$$$$$\ \$$$$$$$ |$$ | $$ | $$ |                                                                      
+\__|      \______|\________|$$$$$$\__| \_______| \_______|\__| \__| \__|                                                                      
+                            \______|                                                                                                           
+                                                                                                                                                                                                                                                                            
+
+Creating new directory, 'Websites'.
+Loading website list 'list_of_websites.txt'
+Gathering info from 'https://www.hackthebox.eu/'.
+Getting domain name,'https://www.hackthebox.eu/'.
+Getting ip address from 'hackthebox.eu'.
+Performing 'nmap' scan on 104.20.66.68, 172.67.1.1, 104.20.55.68, 108.162.193.107, 172.64.33.107, 173.245.59.107, 108.162.192.122, 172.64.32.122, 173.245.58.122, 172.64.32.122, 173.245.58.122, 108.162.192.122, 172.64.33.107, 173.245.59.107, 108.162.193.107, 173.245.59.107, 108.162.193.107, 172.64.33.107, 173.245.58.122, 108.162.192.122, 172.64.32.122
+Performing 'dig' scan on 104.20.66.68, 172.67.1.1, 104.20.55.68, 108.162.193.107, 172.64.33.107, 173.245.59.107, 108.162.192.122, 172.64.32.122, 173.245.58.122, 172.64.32.122, 173.245.58.122, 108.162.192.122, 172.64.33.107, 173.245.59.107, 108.162.193.107, 173.245.59.107, 108.162.193.107, 172.64.33.107, 173.245.58.122, 108.162.192.122, 172.64.32.122
+Performing 'reverse DNS' scan on 104.20.66.68, 172.67.1.1, 104.20.55.68, 108.162.193.107, 172.64.33.107, 173.245.59.107, 108.162.192.122, 172.64.32.122, 173.245.58.122, 172.64.32.122, 173.245.58.122, 108.162.192.122, 172.64.33.107, 173.245.59.107, 108.162.193.107, 173.245.59.107, 108.162.193.107, 172.64.33.107, 173.245.58.122, 108.162.192.122, 172.64.32.122
+Downloading 'robot.txt' from 'https://www.hackthebox.eu/'
+Whoops
+Getting 'whois' info from 'hackthebox.eu'.
+Getting 'sqlmap' info from 'hackthebox.eu'.
+Getting 'commix' info from 'hackthebox.eu'.
+Whoops
+Getting 'cmsmap' info from 'hackthebox.eu'.
+Creating new directory, 'Websites/hackthebox.eu'.
+Savign report in 'Websites/hackthebox.eu'.
+Savign Websites/hackthebox.eu/domain_name.txt
+Writing 'Websites/hackthebox.eu/domain_name.txt'.
+Savign Websites/hackthebox.eu/ip_address.txt
+Writing 'Websites/hackthebox.eu/ip_address.txt'.
+Savign Websites/hackthebox.eu/nmap.txt
+Writing 'Websites/hackthebox.eu/nmap.txt'.
+Savign Websites/hackthebox.eu/dig.txt
+Writing 'Websites/hackthebox.eu/dig.txt'.
+Savign Websites/hackthebox.eu/reverse_dns.txt
+Writing 'Websites/hackthebox.eu/reverse_dns.txt'.
+Savign Websites/hackthebox.eu/robots_txt.txt
+Writing 'Websites/hackthebox.eu/robots_txt.txt'.
+Savign Websites/hackthebox.eu/whois.txt
+Writing 'Websites/hackthebox.eu/whois.txt'.
+Savign Websites/hackthebox.eu/sqlmap.txt
+Writing 'Websites/hackthebox.eu/sqlmap.txt'.
+Savign Websites/hackthebox.eu/commix.txt
+Writing 'Websites/hackthebox.eu/commix.txt'.
+Savign Websites/hackthebox.eu/cmsmap.txt
+Writing 'Websites/hackthebox.eu/cmsmap.txt'.
+Done with 'hackthebox.eu'.
+
+Done with website list 'list_of_websites.txt'.
